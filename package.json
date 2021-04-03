@@ -8,8 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "postinstall": "^0.7.0",
     "uuid": "^8.3.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
